@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "name": "Ohm Shanti Oshaana",
+      "image": "https://c-fa.cdn.smule.com/rs-s80/arr/15/03/04fcee9f-7b6f-4047-a8ac-d4accf8a6b54.jpg",
+      "actors": ["Nazriya Nasim", "Nivin Pauly"],
+      "description": "A spirited young girl would stop at nothing to get the first love of her life, even if it takes seven years and several heartbreaks.",
+      "category": "Rom-Com"
+    },
+    {
+      "name": "Manichithrathazhu",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQxMmE4NDMtZGVkYi00YmQyLThiNTMtOTVmNDEyZWQ2MzUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "actors": ["Shobana", "Mohanlal", "Suresh Gopi"],
+      "description": "A young couple move into an ancient mansion that is believed to be haunted and soon after, sinister things begin to happen.",
+      "category": "Psycological Thriller"
+    },
+    {
+      "name": "Adi Kapyare Kootamani",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjY5MzA2ZmQtN2QwZS00NmU5LTg5OGEtYWMxZjFhNDdmYzczXkEyXkFqcGdeQXVyNjUzNjUwNTc@._V1_.jpg",
+      "actors": ["Dhyan Sreenivasan", "Namitha Pramod", "Aju Varghese"],
+      "description": "Lakshmi offers Bhanuprasad twenty thousand rupees to take her to his hostel and then bring her out unnoticed. However, due to some unexpected turn of events, she gets trapped inside the hostel.",
+      "category": "Comedy"
+    },
+    {
+      "name": "Aniyathipraavu",
+      "image": "https://c-fa.cdn.smule.com/rs-s79/arr/f4/6d/d5d7559e-9353-494c-a4d9-a47ee4494507.jpg",
+      "actors": ["Kunchako Boban`", "Shalini"],
+      "description": "The story of Sudhish Kumar and Mini who fall in love despite being from two different religious communities",
+      "category": "Romance"
+    },
+    {
+      "name": "Aparichithan",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2JlNGQ3OWQtYzBiMi00NWZjLWFlOWEtNTc0N2QzZjg4YWVhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "actors": ["Mammotty`", "Kavya Madhavan", "Maniya", "Karthika"],
+      "description": "Minu, Simi, and Devi, three mischievous college girls, are on the run after they are caught stealing an exam paper; their chance meeting with a wildlife photographer, Raghuram, adds to their woes.",
+      "category": "Horror"
+    },
+    {
+      "name": "Oru CBI Diary Kurippu",
+      "image": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-2073986611.jpg",
+      "actors": ["Mammotty`", "Suresh Gopi", "Jagathy Sreekumar", "Mukesh"],
+      "description": "A man is called upon to investigate the death of the daughter-in-law of a local businessman.",
+      "category": "Crime"
+    },
+    {
+      "name": "Ennu Ninte Moideen",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNmZmY2OTItODUyYy00YjVmLWEwYTUtM2EwZDgyMzNmNTI0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "actors": ["Prithviraj", "Paravathy Thiruvoth", "Tovino Thomas"],
+      "description": "Children of two renowned families fall in love amidst orthodox surroundings. When their inter-religious relationship is opposed, the two lovers' situation is fraught with familial pressure, societal culture and blind arrogance.",
+      "category": "Romance"
+    },
+    {
+      "name": "Jan.E.Man",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMxZDBhNmEtZjFiNy00NmQ5LTkzZjctMjNhZTk2YzA3MzRkXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+      "actors": ["Basil Joseph", "Balu Varghese", "Lal"],
+      "description": "A young man plans his own birthday party to cure his sadness and loneliness, but an unexpected death threatens the festivities.",
+      "category": "Comedy"
+    },
+    {
+      "name": "Home",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWU1ZmNlYTctYmY1My00ZDlmLTk3M2EtZDcxY2E1ZGU0N2YzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+      "actors": ["Indrans", "Sreenath Bhasi", "Manju Pillai"],
+      "description": "A technologically challenged dad desperately tries to reconnect with his young sons.",
+      "category": "Drama"
+    },
+    {
+      "name": "Ishtam",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM0NTY4NzMtNzg5NC00NTI2LWE2MmItZjg2MmQwZDM2ZDdlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "actors": ["Dileep", "Navya Nair", "Nedumudi Venu"],
+      "description": "When Pavan realizes that his friend Anjana's teacher and his widowed father were in love with each other, he resolves to reunite them.",
+      "category": "Rom-Com"
+    }
+  ]
+}
